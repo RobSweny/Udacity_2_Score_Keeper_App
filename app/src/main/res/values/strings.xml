@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Udacity_2_Score_Keeper_App</string>
+    <string name="goal">Goal</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="red_card">Red Card</string>
+    <string name="corners">Corners</string>
+    <string name="team_b_title">Team B</string>
+    <string name="team_a_title">Team A</string>
+    <string name="team_scores">Score: </string>
+    <string name="current_players">Current Players: </string>
+    <string name="corner_kicks">Corner Kicks: </string>
+    <string name="yellow_cards">Yellow Cards:</string>
+    <string name="reset">Reset</string>
+    <string name="football_scores">Football scores</string>
+</resources>
